@@ -1,0 +1,19 @@
+.jum {
+    position: relative;
+    margin-top: 2px;
+
+
+}
+
+.color{
+  background-image: url(assets/img/fondo.png);
+
+}
+
+.name{
+  color:white;
+  background: black;
+  width: 100%;
+  
+
+}
